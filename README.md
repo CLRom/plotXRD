@@ -10,6 +10,6 @@ The zip folder contains:
 VESTA can be found here: http://www.jp-minerals.org/vesta/en/
 
 If you use this code for presentations or publications, please acknowledge my work with something along the lines of
-"Thanks to Christopher L. Rom for XRD plotting software (github.com/clr74)"
+"Thanks to Christopher L. Rom for XRD plotting software (github.com/CLRom)"
 
 Thanks!  Hope this helps!
